@@ -1,0 +1,21 @@
+# Emacs files
+*~
+.\#*
+
+# Dat files
+data/devices/*
+data/network/*
+
+# C++ files
+*.o
+*.out
+
+# OS X file
+.DS_Store
+
+# output file
+*.csv
+*.png
+
+# Python
+*.pyc
